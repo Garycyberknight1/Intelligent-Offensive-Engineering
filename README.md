@@ -1,4 +1,4 @@
-# Controlled-Penetration-Testing-Lab
+# Controlled-Penetration-Testing-Lab: Exploiting Legacy System Vulnerabilities
 
 ## Objective
 [Brief Objective - Remove this afterwards]
