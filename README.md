@@ -1,3 +1,4 @@
+<img width="541" height="390" alt="IOE drawio" src="https://github.com/user-attachments/assets/86355cc4-4020-4765-99a7-74605fa95135" />
 # Intelligent Offensive Engineering
 
 ## Objective
@@ -43,4 +44,5 @@ Developed an Intelligent Offensive Engineering framework designed to augment hum
 
 *Ref 1: Intelligent Offensive Engineering
 
+<img width="541" height="390" alt="IOE drawio" src="https://github.com/user-attachments/assets/661a38a7-7351-4ddc-a8f6-9e4d06451c6e" />
 
