@@ -7,7 +7,7 @@ Developed a data-driven penetration testing framework designed to transition off
 
 ### Skills Learned
 
-
+- Database-Driven Reconnaissance: Experienced in using db_nmap and PostgreSQL to manage large-scale target metadata within the Metasploit Framework.
 - API Integration: You learned how to use the pymetasploit3 library to bridge the gap between a custom Python environment and the Metasploit Framework.
 - Algorithmic Logic: You developed a "Decision Engine" that filters and ranks potential exploits based on metadata (ranking, reliability, and service info).
 - Automated Data Processing: You utilized pandas to read local CSV feature files and loop through data points for automated analysis.
